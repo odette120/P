@@ -47,7 +47,7 @@ global.language = indonesia //change indonesia to english if you don't understan
 // Other
 // Other
 global.botname = "Irmabot-Mdོ" //namabot kalian
-global.ownername = "Kenal Irma?" //nama kalian
+global.ownername = "ʜᴀʟᴏ ʙʀᴏ ᴋᴀʟᴀᴜ ᴍᴇɴɢɢᴜɴᴀᴋᴀɴ ʙᴜᴀᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ᴛᴜʜ ʏᴀɴɢ ɪᴋʜʟᴀꜱ ʏᴀɴɢ ʙɪꜱᴀ ᴅɪ ꜱᴘᴀᴍ ᴀɴᴊɪɴɢ ɴɢᴇʀᴛɪ ᴄᴏɴᴛᴀᴄᴛꜱ ꜱᴜᴘᴘᴏʀᴛ: ɪʀᴍᴀʙᴀʜᴀʀ8@ɢᴍᴀɪʟ.ᴄᴏᴍ" //nama kalian
 global.myweb = "https://s.id/maaaofc" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/@irma" //bebas asal jan hapus
 global.myweb2 = "https://s.id/error" //bebas
