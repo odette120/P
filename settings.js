@@ -91,7 +91,7 @@ global.buttonDefault = [{
    }
 }, {
    quickReplyButton: {
-      displayText: 'Owner 👤',
+      displayText: 'OWNER',
       id: '.owner'
    }
 }, {
@@ -144,13 +144,13 @@ global.buttonDefault3 = [{
 global.buttonDefault4 = [{
    buttonId: '.command',
    buttonText: {
-      displayText: '༺ Back'
+      displayText: 'KEMBALI'
    },
    type: 1
 }, {
    buttonId: '.owner',
    buttonText: {
-      displayText: 'Owner ༻'
+      displayText: 'OWNER'
    },
    type: 1
 }]
